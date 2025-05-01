@@ -58,7 +58,7 @@ _Awards:_
 
 ### 📫 Connect with me
 
-- Email: gsundararajan@albany.edu
+- Email: gsundararajan@albany.edu, gowthamsundararajan391@gmail.com
 - LinkedIn: [linkedin.com/in/gowtham-sundararajan391](http://linkedin.com/in/gowtham-sundararajan391)
 
 ---
