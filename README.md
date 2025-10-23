@@ -50,6 +50,7 @@ _Awards:_
 
 ### 📜 Certifications
 
+- PSM 1
 - AZ-900 (Azure Fundamentals), Microsoft
 - Java (basics), HackerRank
 - Generative AI Level I, Hexaware Technologies
